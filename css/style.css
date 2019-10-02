@@ -1,18 +1,14 @@
 h1 {
     text-align: center;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-family: 'Mansalva', cursive;
 }
 p {
     text-align: center;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
-img {
-    margin-left: 35%;
-}
-
 body {
-    background-image: url("../images/Smoke\ background.jpg");
+    background-image: url("https://assetstorev1-prd-cdn.unity3d.com/package-screenshot/917dd879-318f-42d9-abab-c67f6c07e694_scaled.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed; 
@@ -28,4 +24,3 @@ body {
     margin-bottom: 2%;
     border-radius: 25px;
 }
-
